@@ -1,0 +1,40 @@
+{"name": "task_1", "query": "Where is Northwind Traders headquartered, how many employees does it have, and what industry is it in?"}
+{"name": "task_2", "query": "What major losses has Northwind Traders experienced in recent years?"}
+{"name": "task_3", "query": "What does Northwind Traders' current insurance program look like?"}
+{"name": "task_4", "query": "Which Northwind Traders facilities create the greatest operational concentration risk?"}
+{"name": "task_5", "query": "What are Northwind Traders' biggest supply-chain dependencies and concentrations?"}
+{"name": "task_6", "query": "For Northwind Traders, compare its recent loss history with its current insurance program and identify areas the risk advisor should investigate further."}
+{"name": "task_7", "query": "For Northwind Traders, identify whether its facility concentration and recent property losses point to material business interruption concerns."}
+{"name": "task_8", "query": "For Northwind Traders, compare its supply-chain exposure with its recent supply-chain loss history. What should the advisor prioritize?"}
+{"name": "task_9", "query": "Using Northwind Traders' company profile and facility exposure data, identify the three most material operational risks for the upcoming client discussion."}
+{"name": "task_10", "query": "Using Northwind Traders' company profile and claims history, explain which enterprise risks appear most material based on both current operations and prior losses."}
+{"name": "task_11", "query": "For Northwind Traders, assess how the planned Monterrey expansion could affect property, supply-chain, and business interruption risk. Use any tools needed."}
+{"name": "task_12", "query": "For Northwind Traders, is the $750 million property limit sufficient? Explain what additional information would be needed before reaching a conclusion."}
+{"name": "task_13", "query": "Prepare a concise risk briefing for Northwind Traders that incorporates its overall company profile, recent losses, facility concentration, supply-chain exposure, and insurance program."}
+{"name": "task_14", "query": "Where is Boulder Innovations headquartered, how many employees does it have, and what does the company do?"}
+{"name": "task_15", "query": "What major claims or loss events has Boulder Innovations experienced?"}
+{"name": "task_16", "query": "What insurance coverages and limits does Boulder Innovations currently maintain?"}
+{"name": "task_17", "query": "Which Boulder Innovations facilities or operations create the greatest concentration or continuity risk?"}
+{"name": "task_18", "query": "What are Boulder Innovations' most significant supply-chain dependencies?"}
+{"name": "task_19", "query": "For Boulder Innovations, compare its recent cyber and supply-chain losses with its current insurance program. What areas deserve follow-up?"}
+{"name": "task_20", "query": "For Boulder Innovations, compare its Austin manufacturing concentration with its recent property and supply-chain loss history."}
+{"name": "task_21", "query": "Using Boulder Innovations' company profile and claims history, identify the three most material risks for the next client discussion."}
+{"name": "task_22", "query": "Using Boulder Innovations' company profile and supply-chain exposure data, explain where operational resilience appears most vulnerable."}
+{"name": "task_23", "query": "For Boulder Innovations, assess how the planned AI-enabled industrial monitoring product line could change cyber, product liability, and operational risk."}
+{"name": "task_24", "query": "For Boulder Innovations, assess whether the current cyber insurance program can be judged adequate based on available information. If not, identify what is missing."}
+{"name": "task_25", "query": "Prepare a concise risk briefing for Boulder Innovations using its company profile, recent claims, facility exposure, supply-chain exposure, and insurance program."}
+{"name": "task_26", "query": "For Boulder Innovations, what is the relationship between its connected-device footprint, legacy firmware, and potential business interruption exposure?"}
+{"name": "task_27", "query": "Where is Tailspin Toys headquartered, how many employees does it have, and what are its primary markets?"}
+{"name": "task_28", "query": "What major losses has Tailspin Toys experienced in recent years?"}
+{"name": "task_29", "query": "What does Tailspin Toys' current insurance program include?"}
+{"name": "task_30", "query": "Which Tailspin Toys facilities create the greatest business interruption exposure?"}
+{"name": "task_31", "query": "What are Tailspin Toys' biggest supply-chain and third-party manufacturing exposures?"}
+{"name": "task_32", "query": "For Tailspin Toys, compare its recent loss history with its current insurance program. Identify any areas the risk advisor should investigate further, but do not make a definitive judgment about coverage adequacy."}
+{"name": "task_33", "query": "For Tailspin Toys, compare its Dallas distribution-center exposure with its recent property loss history and explain why timing matters."}
+{"name": "task_34", "query": "For Tailspin Toys, compare its supply-chain exposure with its recent port disruption. What resilience issues should the advisor prioritize?"}
+{"name": "task_35", "query": "Using Tailspin Toys' company profile and claims history, identify the three most material risks for the next client discussion."}
+{"name": "task_36", "query": "Using Tailspin Toys' company profile and facility exposure data, explain why holiday-season business interruption is especially material."}
+{"name": "task_37", "query": "For Tailspin Toys, assess how expansion of connected and AI-enabled toys could change cyber, privacy, product liability, and third-party software risk."}
+{"name": "task_38", "query": "For Tailspin Toys, is the $100 million product liability limit sufficient given its recent recall history? Explain what additional information is needed."}
+{"name": "task_39", "query": "Prepare a concise risk briefing for Tailspin Toys using its company profile, recent claims, facility exposure, supply-chain exposure, and insurance program."}
+{"name": "task_40", "query": "For Tailspin Toys, identify how product recall, supply-chain disruption, and holiday-season distribution risk could compound into a larger business interruption event."}

@@ -1,0 +1,153 @@
+{
+  "Northwind Traders": {
+    "critical_supplier_count": 240,
+    "single_or_limited_source_percentage": 35,
+    "inventory_days_for_most_critical_components": 21,
+    "dependencies": [
+      {
+        "component": "Semiconductors",
+        "source_regions": [
+          "Taiwan",
+          "South Korea"
+        ]
+      },
+      {
+        "component": "Specialty steel",
+        "source_regions": [
+          "United States",
+          "Canada",
+          "Germany"
+        ]
+      },
+      {
+        "component": "Precision sensors",
+        "source_regions": [
+          "Japan"
+        ]
+      },
+      {
+        "component": "Industrial control equipment",
+        "source_regions": [
+          "Europe"
+        ]
+      }
+    ],
+    "recent_disruptions": [
+      "Three production delays during the previous year due to supplier disruptions",
+      "2025 semiconductor supplier interruption caused nine days of delayed production across two product lines"
+    ]
+  },
+  "Boulder Innovations": {
+    "single_source_percentage": 28,
+    "inventory_days_range": {
+      "min": 30,
+      "max": 45
+    },
+    "dependencies": [
+      {
+        "component": "Microcontrollers",
+        "source_regions": [
+          "Taiwan",
+          "South Korea",
+          "Japan",
+          "United States",
+          "Germany"
+        ]
+      },
+      {
+        "component": "Wireless modules",
+        "source_regions": [
+          "Taiwan",
+          "South Korea",
+          "Japan",
+          "United States",
+          "Germany"
+        ]
+      },
+      {
+        "component": "Industrial sensors",
+        "source_regions": [
+          "Japan",
+          "Germany",
+          "United States"
+        ]
+      },
+      {
+        "component": "Secure elements",
+        "source_regions": [
+          "Europe",
+          "Asia"
+        ]
+      },
+      {
+        "component": "Power-management chips",
+        "source_regions": [
+          "Asia",
+          "United States"
+        ]
+      }
+    ],
+    "recent_disruptions": [
+      "A semiconductor shortage three years ago delayed shipments of several product lines for approximately six weeks"
+    ]
+  },
+  "Tailspin Toys": {
+    "third_party_manufacturing_percentage": 52,
+    "contract_manufacturing_regions": [
+      "China",
+      "Vietnam",
+      "Mexico"
+    ],
+    "dependencies": [
+      {
+        "component": "Plastics",
+        "risk_notes": [
+          "High-volume seasonal demand"
+        ]
+      },
+      {
+        "component": "Electronic components",
+        "risk_notes": [
+          "Used in connected and battery-powered toys"
+        ]
+      },
+      {
+        "component": "Packaging materials",
+        "risk_notes": [
+          "Required for seasonal retail launches"
+        ]
+      },
+      {
+        "component": "Batteries",
+        "risk_notes": [
+          "Product safety and sourcing exposure"
+        ]
+      },
+      {
+        "component": "Textiles",
+        "risk_notes": [
+          "Used across selected product categories"
+        ]
+      },
+      {
+        "component": "Licensed product components",
+        "risk_notes": [
+          "May depend on specialized suppliers"
+        ]
+      }
+    ],
+    "key_risks": [
+      "Seasonal production deadlines",
+      "Ocean freight dependency",
+      "Port congestion",
+      "Supplier quality",
+      "Product safety requirements",
+      "Geographic concentration",
+      "Limited time to recover from delays before holiday sales periods"
+    ],
+    "production_timing": "Peak holiday production typically begins six to eight months before the selling season",
+    "recent_disruptions": [
+      "2023 port disruption affected holiday product inventory availability"
+    ]
+  }
+}

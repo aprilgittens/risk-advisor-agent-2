@@ -1,0 +1,124 @@
+{
+  "Northwind Traders": {
+    "claims": [
+      {
+        "year": 2024,
+        "type": "Property",
+        "event": "Dallas winter storm and regional power outage",
+        "estimated_loss_usd": 4800000,
+        "primary_loss_drivers": [
+          "Business interruption",
+          "Spoiled raw materials",
+          "Equipment restart costs"
+        ]
+      },
+      {
+        "year": 2023,
+        "type": "Cyber",
+        "event": "Ransomware attack affecting corporate systems",
+        "estimated_loss_usd": 2100000,
+        "primary_loss_drivers": [
+          "Incident response",
+          "Business interruption",
+          "Forensic investigation",
+          "System restoration"
+        ]
+      },
+      {
+        "year": 2025,
+        "type": "Supply Chain",
+        "event": "Semiconductor supplier production interruption",
+        "estimated_loss_usd": 6300000,
+        "primary_loss_drivers": [
+          "Nine days of delayed production",
+          "Disruption across two product lines"
+        ]
+      }
+    ]
+  },
+  "Boulder Innovations": {
+    "claims": [
+      {
+        "year": 2024,
+        "type": "Cyber",
+        "event": "Industrial gateway vulnerability response",
+        "estimated_loss_usd": 3600000,
+        "primary_loss_drivers": [
+          "Engineering response",
+          "Firmware development",
+          "Customer notification",
+          "Security testing",
+          "Support operations"
+        ]
+      },
+      {
+        "year": 2023,
+        "type": "Supply Chain",
+        "event": "Semiconductor shortage affecting three product lines",
+        "estimated_loss_usd": 11200000,
+        "primary_loss_drivers": [
+          "Delayed customer shipments",
+          "Expedited component purchases",
+          "Production scheduling changes"
+        ]
+      },
+      {
+        "year": 2022,
+        "type": "Property",
+        "event": "Boulder laboratory cooling-system failure",
+        "estimated_loss_usd": 1700000,
+        "primary_loss_drivers": [
+          "Damaged laboratory equipment",
+          "Five days of testing interruption"
+        ]
+      }
+    ]
+  },
+  "Tailspin Toys": {
+    "claims": [
+      {
+        "year": 2025,
+        "type": "Product Recall",
+        "event": "Battery-powered toy recall affecting approximately 420,000 units",
+        "estimated_loss_usd": 14500000,
+        "primary_loss_drivers": [
+          "Product replacement",
+          "Retailer reimbursement",
+          "Logistics",
+          "Customer communication",
+          "Legal expenses"
+        ]
+      },
+      {
+        "year": 2024,
+        "type": "Property",
+        "event": "Severe storm damage at Dallas distribution center",
+        "estimated_loss_usd": 5700000,
+        "primary_loss_drivers": [
+          "Warehouse roof damage",
+          "Four days of operational interruption"
+        ]
+      },
+      {
+        "year": 2023,
+        "type": "Supply Chain",
+        "event": "Port disruption affecting holiday product inventory",
+        "estimated_loss_usd": 8900000,
+        "primary_loss_drivers": [
+          "Shipping delays",
+          "Reduced inventory availability"
+        ]
+      },
+      {
+        "year": 2022,
+        "type": "Cyber",
+        "event": "Credential-stuffing incident affecting connected-toy customer accounts",
+        "estimated_loss_usd": 1300000,
+        "primary_loss_drivers": [
+          "Incident response",
+          "Customer account remediation"
+        ]
+      }
+    ]
+  }
+}

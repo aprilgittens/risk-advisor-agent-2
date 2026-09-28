@@ -1,0 +1,133 @@
+{
+  "Northwind Traders": {
+    "total_property_and_equipment_usd": 1400000000,
+    "operational_notes": [
+      "68% of annual revenue depends on continuous manufacturing operations at the six largest facilities",
+      "Several production lines operate 24 hours per day",
+      "Limited alternate manufacturing capacity exists for certain products"
+    ],
+    "facilities": [
+      {
+        "location": "Columbus, Ohio",
+        "type": "Manufacturing campus",
+        "notable_exposure": "Accounts for approximately 18% of total annual production",
+        "dependencies": [
+          "Continuous manufacturing",
+          "Specialized machinery",
+          "Long replacement lead times"
+        ]
+      },
+      {
+        "location": "Greenville, South Carolina",
+        "type": "Manufacturing facility",
+        "notable_exposure": "Located in a region affected by hurricanes and severe storms"
+      },
+      {
+        "location": "Dallas, Texas",
+        "type": "Manufacturing facility",
+        "notable_exposure": "Experienced a three-day power outage following severe winter weather"
+      },
+      {
+        "location": "Phoenix, Arizona",
+        "type": "Manufacturing facility",
+        "notable_exposure": "Elevated extreme-heat exposure"
+      },
+      {
+        "location": "Windsor, Ontario",
+        "type": "Manufacturing facility",
+        "notable_exposure": "One of the company’s largest manufacturing sites"
+      },
+      {
+        "location": "Monterrey, Mexico",
+        "type": "Planned manufacturing facility",
+        "employees": 650,
+        "estimated_property_investment_usd": 180000000,
+        "purpose": "Expand production capacity for North American automotive customers"
+      },
+      {
+        "location": "Stuttgart Region, Germany",
+        "type": "Planned engineering and research facility",
+        "employees": 300,
+        "estimated_property_investment_usd": 75000000,
+        "purpose": "Support European aerospace and advanced manufacturing customers"
+      }
+    ]
+  },
+  "Boulder Innovations": {
+    "total_property_and_equipment_usd": 620000000,
+    "operational_notes": [
+      "Key assets include electronics manufacturing equipment, prototype laboratories, clean-room environments, and specialized testing equipment",
+      "Operations also depend on cloud services and customer support availability"
+    ],
+    "facilities": [
+      {
+        "location": "Boulder, Colorado",
+        "type": "Headquarters and laboratory operations",
+        "notable_exposure": "Prior cooling-system failure interrupted laboratory testing"
+      },
+      {
+        "location": "Austin, Texas",
+        "type": "Manufacturing facility",
+        "notable_exposure": "Produces approximately 34% of connected-device hardware",
+        "dependencies": [
+          "Specialized electronics manufacturing equipment",
+          "Replacement lead times exceeding six months for some systems"
+        ]
+      },
+      {
+        "location": "San Jose, California",
+        "type": "Research and development / engineering",
+        "notable_exposure": "Supports hardware and software development"
+      },
+      {
+        "location": "Raleigh, North Carolina",
+        "type": "Software engineering office",
+        "notable_exposure": "Supports software and cloud operations"
+      },
+      {
+        "location": "Manchester, United Kingdom",
+        "type": "Regional operations",
+        "notable_exposure": "Supports European operations"
+      }
+    ]
+  },
+  "Tailspin Toys": {
+    "total_property_inventory_equipment_and_distribution_assets_usd": 780000000,
+    "operational_notes": [
+      "46% of annual sales occur during the fourth quarter",
+      "A prolonged outage during peak holiday season could significantly affect annual revenue",
+      "Key exposures include warehouse fire, severe weather, transportation interruption, manufacturing shutdown, and product recall events"
+    ],
+    "facilities": [
+      {
+        "location": "Minneapolis, Minnesota",
+        "type": "Headquarters",
+        "notable_exposure": "Corporate and product-management operations"
+      },
+      {
+        "location": "Dallas, Texas",
+        "type": "Distribution center",
+        "notable_exposure": "Handles approximately 31% of U.S. holiday-season shipments",
+        "dependencies": [
+          "Seasonal inventory concentration",
+          "Fourth-quarter distribution continuity"
+        ]
+      },
+      {
+        "location": "Los Angeles, California",
+        "type": "Product design / regional operations",
+        "notable_exposure": "Supports product development and sales"
+      },
+      {
+        "location": "Monterrey, Mexico",
+        "type": "Manufacturing facility",
+        "notable_exposure": "Part of manufacturing footprint supporting North American distribution"
+      },
+      {
+        "location": "Rotterdam, Netherlands",
+        "type": "Distribution / regional operations",
+        "notable_exposure": "Supports European market distribution"
+      }
+    ]
+  }
+}

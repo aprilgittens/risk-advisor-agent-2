@@ -1,0 +1,40 @@
+{"id": "opt_001", "prompt": "Where is Northwind Traders headquartered, how many employees does it have, and what industry is it in?"}
+{"id": "opt_002", "prompt": "What major losses has Northwind Traders experienced in recent years?"}
+{"id": "opt_003", "prompt": "What does Northwind Traders' current insurance program look like?"}
+{"id": "opt_004", "prompt": "Which Northwind Traders facilities create the greatest operational concentration risk?"}
+{"id": "opt_005", "prompt": "What are Northwind Traders' biggest supply-chain dependencies and concentrations?"}
+{"id": "opt_006", "prompt": "For Northwind Traders, compare its recent loss history with its current insurance program and identify areas the risk advisor should investigate further."}
+{"id": "opt_007", "prompt": "For Northwind Traders, identify whether its facility concentration and recent property losses point to material business interruption concerns."}
+{"id": "opt_008", "prompt": "For Northwind Traders, compare its supply-chain exposure with its recent supply-chain loss history. What should the advisor prioritize?"}
+{"id": "opt_009", "prompt": "Using Northwind Traders' company profile and facility exposure data, identify the three most material operational risks for the upcoming client discussion."}
+{"id": "opt_010", "prompt": "Using Northwind Traders' company profile and claims history, explain which enterprise risks appear most material based on both current operations and prior losses."}
+{"id": "opt_011", "prompt": "For Northwind Traders, assess how the planned Monterrey expansion could affect property, supply-chain, and business interruption risk. Use any tools needed."}
+{"id": "opt_012", "prompt": "For Northwind Traders, is the $750 million property limit sufficient? Explain what additional information would be needed before reaching a conclusion."}
+{"id": "opt_013", "prompt": "Prepare a concise risk briefing for Northwind Traders that incorporates its overall company profile, recent losses, facility concentration, supply-chain exposure, and insurance program."}
+{"id": "opt_014", "prompt": "Where is Boulder Innovations headquartered, how many employees does it have, and what does the company do?"}
+{"id": "opt_015", "prompt": "What major claims or loss events has Boulder Innovations experienced?"}
+{"id": "opt_016", "prompt": "What insurance coverages and limits does Boulder Innovations currently maintain?"}
+{"id": "opt_017", "prompt": "Which Boulder Innovations facilities or operations create the greatest concentration or continuity risk?"}
+{"id": "opt_018", "prompt": "What are Boulder Innovations' most significant supply-chain dependencies?"}
+{"id": "opt_019", "prompt": "For Boulder Innovations, compare its recent cyber and supply-chain losses with its current insurance program. What areas deserve follow-up?"}
+{"id": "opt_020", "prompt": "For Boulder Innovations, compare its Austin manufacturing concentration with its recent property and supply-chain loss history."}
+{"id": "opt_021", "prompt": "Using Boulder Innovations' company profile and claims history, identify the three most material risks for the next client discussion."}
+{"id": "opt_022", "prompt": "Using Boulder Innovations' company profile and supply-chain exposure data, explain where operational resilience appears most vulnerable."}
+{"id": "opt_023", "prompt": "For Boulder Innovations, assess how the planned AI-enabled industrial monitoring product line could change cyber, product liability, and operational risk."}
+{"id": "opt_024", "prompt": "For Boulder Innovations, assess whether the current cyber insurance program can be judged adequate based on available information. If not, identify what is missing."}
+{"id": "opt_025", "prompt": "Prepare a concise risk briefing for Boulder Innovations using its company profile, recent claims, facility exposure, supply-chain exposure, and insurance program."}
+{"id": "opt_026", "prompt": "For Boulder Innovations, what is the relationship between its connected-device footprint, legacy firmware, and potential business interruption exposure?"}
+{"id": "opt_027", "prompt": "Where is Tailspin Toys headquartered, how many employees does it have, and what are its primary markets?"}
+{"id": "opt_028", "prompt": "What major losses has Tailspin Toys experienced in recent years?"}
+{"id": "opt_029", "prompt": "What does Tailspin Toys' current insurance program include?"}
+{"id": "opt_030", "prompt": "Which Tailspin Toys facilities create the greatest business interruption exposure?"}
+{"id": "opt_031", "prompt": "What are Tailspin Toys' biggest supply-chain and third-party manufacturing exposures?"}
+{"id": "opt_032", "prompt": "For Tailspin Toys, compare its recent loss history with its current insurance program. Identify any areas the risk advisor should investigate further, but do not make a definitive judgment about coverage adequacy."}
+{"id": "opt_033", "prompt": "For Tailspin Toys, compare its Dallas distribution-center exposure with its recent property loss history and explain why timing matters."}
+{"id": "opt_034", "prompt": "For Tailspin Toys, compare its supply-chain exposure with its recent port disruption. What resilience issues should the advisor prioritize?"}
+{"id": "opt_035", "prompt": "Using Tailspin Toys' company profile and claims history, identify the three most material risks for the next client discussion."}
+{"id": "opt_036", "prompt": "Using Tailspin Toys' company profile and facility exposure data, explain why holiday-season business interruption is especially material."}
+{"id": "opt_037", "prompt": "For Tailspin Toys, assess how expansion of connected and AI-enabled toys could change cyber, privacy, product liability, and third-party software risk."}
+{"id": "opt_038", "prompt": "For Tailspin Toys, is the $100 million product liability limit sufficient given its recent recall history? Explain what additional information is needed."}
+{"id": "opt_039", "prompt": "Prepare a concise risk briefing for Tailspin Toys using its company profile, recent claims, facility exposure, supply-chain exposure, and insurance program."}
+{"id": "opt_040", "prompt": "For Tailspin Toys, identify how product recall, supply-chain disruption, and holiday-season distribution risk could compound into a larger business interruption event."}

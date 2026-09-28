@@ -1,0 +1,91 @@
+{
+  "Northwind Traders": {
+    "program": {
+      "property": {
+        "limit_usd": 750000000,
+        "deductible_usd": 2000000,
+        "business_interruption_included": true
+      },
+      "cyber": {
+        "limit_usd": 50000000,
+        "retention_usd": 1000000,
+        "coverage_details": [
+          "Incident response",
+          "Business interruption",
+          "Ransomware events",
+          "Data breach response"
+        ]
+      },
+      "general_liability": {
+        "limit_usd": 25000000
+      },
+      "workers_compensation": {
+        "description": "Coverage maintained in accordance with local regulatory requirements."
+      },
+      "directors_and_officers": {
+        "limit_usd": 40000000
+      }
+    }
+  },
+  "Boulder Innovations": {
+    "program": {
+      "property": {
+        "limit_usd": 400000000,
+        "deductible_usd": 1000000,
+        "coverage_details": [
+          "Equipment breakdown",
+          "Business interruption"
+        ]
+      },
+      "cyber": {
+        "limit_usd": 75000000,
+        "retention_usd": 2000000,
+        "coverage_details": [
+          "Incident response",
+          "Network interruption",
+          "Data breach response",
+          "Cyber extortion",
+          "Digital asset restoration"
+        ]
+      },
+      "technology_errors_and_omissions": {
+        "limit_usd": 50000000
+      },
+      "general_liability": {
+        "limit_usd": 20000000
+      },
+      "directors_and_officers": {
+        "limit_usd": 30000000
+      }
+    }
+  },
+  "Tailspin Toys": {
+    "program": {
+      "property": {
+        "limit_usd": 500000000,
+        "deductible_usd": 1500000,
+        "business_interruption_included": true
+      },
+      "product_liability": {
+        "limit_usd": 100000000,
+        "coverage_details": [
+          "Product liability",
+          "Product recall expense coverage subject to applicable terms and sublimits"
+        ]
+      },
+      "cyber": {
+        "limit_usd": 40000000,
+        "retention_usd": 1000000
+      },
+      "general_liability": {
+        "limit_usd": 50000000
+      },
+      "marine_cargo": {
+        "description": "Coverage applies to international product shipments and inventory in transit."
+      },
+      "directors_and_officers": {
+        "limit_usd": 35000000
+      }
+    }
+  }
+}
